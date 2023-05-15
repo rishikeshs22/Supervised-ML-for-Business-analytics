@@ -1,1 +1,0 @@
-Follow the naming structure of file given in Readme.MD file
