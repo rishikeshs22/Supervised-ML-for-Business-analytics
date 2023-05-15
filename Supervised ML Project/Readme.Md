@@ -11,7 +11,7 @@
 
 ```
 Project2023
-└──piyushb1703/Supervised ML for Business Analytics
+└──piyush1703/Supervised ML for Business Analytics
     └── Supervised ML Project
       ├── Assignment_1
       |    ├── 212101_John
