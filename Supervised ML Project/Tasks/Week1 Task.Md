@@ -4,4 +4,4 @@
  
 2. Plot any 3 different types of graphs using matplotlib.<br>
 
- ## NOTE: Do not use any library function for task 1 ##
+ ## NOTE: Do not use any library function for multiplication and taking transpose ## (you can use library function for randomly generating matrix and reshaping it)
