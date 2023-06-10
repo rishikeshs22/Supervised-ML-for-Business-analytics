@@ -1,4 +1,4 @@
-## Linear Regression
+## Linear Regression (Car Price assignment)
 3.a You need to write Code for multi-variable linear regression <br>
 Functions of your code should be easily readable and reusable.<br>
 
